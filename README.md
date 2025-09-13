@@ -14,7 +14,7 @@ The system leverages **YOLOv8** for object detection, OpenCV for video processin
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Programming Language:** Python 3.x  
 - **Libraries:**  
   - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)  
